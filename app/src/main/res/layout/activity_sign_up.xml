@@ -58,7 +58,7 @@
         android:layout_below="@id/edt_password"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:text="Sign Up"
+        android:text="@string/str_signup"
         android:textStyle="bold"
         android:textColor="@color/white"
         android:background="@drawable/btn_background"

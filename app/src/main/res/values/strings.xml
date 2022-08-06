@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">two chat aplication</string>
+    <string name="app_name">two chat application</string>
+    <string name="str_signup">SIGN UP</string>
 </resources>
