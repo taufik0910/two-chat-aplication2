@@ -15,7 +15,7 @@
         android:layout_marginTop="70dp"/>
 
     <EditText
-        android:id="@+id/edt_username"
+        android:id="@+id/edt_name"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_below="@id/img_logo"
@@ -30,7 +30,7 @@
         android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_below="@id/edt_username"
+        android:layout_below="@id/edt_name"
         android:layout_marginTop="10dp"
         android:hint="Email"
         android:layout_marginLeft="20dp"

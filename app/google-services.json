@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902690089955",
+    "project_id": "chat-room-kedua",
+    "storage_bucket": "chat-room-kedua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902690089955:android:7bdc1a8c6229b5e7f18ed6",
+        "android_client_info": {
+          "package_name": "com.example.twochataplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902690089955-fib7emnkh40o0o986pqe0snvpd7p2jjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_6lPe7H753LwKSj3W6OPsnrDZ61yZ-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902690089955-fib7emnkh40o0o986pqe0snvpd7p2jjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
