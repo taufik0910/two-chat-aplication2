@@ -32,7 +32,7 @@ class ChatActivity : AppCompatActivity() {
         mDbRef = FirebaseDatabase.getInstance().getReference()
 
         senderRoom = receiverUid + senderRoom
-        receiverRoom = senderUid + receiverUid
+        receiverRoom = senderUid + receiverRoom
 
         supportActionBar?.title = name
 
